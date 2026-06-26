@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Навыки
+## Навыки
 
 **Языки и технологии:** TypeScript, JavaScript, HTML5, CSS3
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Чем я занимаюсь
+## Чем я занимаюсь
 
 - Разрабатываю приложения на React и TypeScript
 - Создаю переиспользуемые компоненты и сложные формы с динамической валидацией
@@ -24,13 +24,13 @@
 
 ---
 
-## 📊 GitHub Статистика
+## GitHub Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📫 Связь
+## Связь
 
 - Telegram: [@uliana_coder](https://t.me/uliana_coder)
 - Email: uli4n4.4@yandex.ru
