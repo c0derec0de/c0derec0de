@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 # 👋 Привет!
 
 Я — Ульяна Акельева, студентка 4 курса Воронежского государственного университета Факультета компьютерных наук. Являюсь фронтенд-разработкчиком, создаю удобные интерфейсы.
@@ -28,7 +26,7 @@
 
 ## 📊 GitHub Статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0derec0de&layout=compact&theme=dark)](https://github.com/c0derec0de)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
